@@ -9,9 +9,9 @@ Using UIPath Studio, the application will automate the scrapping iPhone prices f
 ##Data Table Structure
 Data table is saved with columns “Name”, “Price” and “URL” and sorted by ascending order based on “Price”.
 All 3 columns have String as their data type.
-![FlowChart Design of the Iphone14 shopper](https://github.com/LucidDreamsAlways/Iphone14_Shopper/blob/main/DataTable.jpeg?raw=true)
+![FlowChart Design of the Iphone14 shopper](https://github.com/LucidDreamsAlways/Iphone14_Shopper/blob/main/DataTable.jpg?raw=true)
 
 ##Workflow Design
-![FlowChart Design of the Iphone14 shopper](https://github.com/LucidDreamsAlways/Iphone14_Shopper/blob/main/Workflow.jpeg?raw=true)
+![FlowChart Design of the Iphone14 shopper](https://github.com/LucidDreamsAlways/Iphone14_Shopper/blob/main/Workflow.jpg?raw=true)
 
 
